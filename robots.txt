@@ -1,0 +1,6 @@
+# Programmed By The Baby Fern LLC. All Rights Reserved
+
+# And Big Thanks To I Hate Scams And Scammer Payback
+
+User-Agent: *
+Allow: /
