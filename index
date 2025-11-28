@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>404 Not Found</title>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: "Times New Roman", serif;
+        text-align: center;
+        background: #ffffff;
+    }
+
+    h1 {
+        font-size: 36px;
+        font-weight: bold;
+        margin-top: 30px;
+    }
+
+    hr {
+        margin-top: 20px;
+    }
+
+    .server {
+        margin-top: 10px;
+        font-size: 16px;
+    }
+</style>
+</head>
+<body>
+
+<h1>404 Not Found</h1>
+<hr>
+<div class="server">nginx</div>
+
+</body>
+</html>
